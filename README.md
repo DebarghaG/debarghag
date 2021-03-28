@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [debarghaganguly.com](debarghaganguly.com)
 
-- 📝 I regularly write articles on [https://debwrites.substack.com/](https://debwrites.substack.com/)
+- 📝 I regularly write articles on [https://debwrites.substack.com/](debwrites.substack.com)
 
 - 📫 How to reach me **maildebargha@gmail.com**
 
