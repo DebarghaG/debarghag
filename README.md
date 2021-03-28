@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Explainable AI](ml2ct.ashoka.edu.in)
 
-- 👨‍💻 All of my projects are available at [debarghaganguly.com](debarghaganguly.com)
+- 👨‍💻 Most of my work is available at [debarghaganguly.com](debarghaganguly.com)
 
-- 📝 I regularly write articles on [https://debwrites.substack.com/](debwrites.substack.com)
+- 📝 I occasionally write articles on [Substack](https://debwrites.substack.com/)
 
-- 📫 How to reach me **maildebargha@gmail.com**
+- 📫 Email : **maildebargha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
