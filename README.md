@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghag&label=Profile%20views&color=0e75b6&style=flat" alt="debarghag" /> </p>
 
-- 🔭 I’m currently working on [Explainable AI](ml2ct.ashoka.edu.in)
+- 🔭 I’m currently working on [Explainable AI](https://ml2ct.ashoka.edu.in)
 
-- 👨‍💻 Most of my work is available at [debarghaganguly.com](debarghaganguly.com)
+- 👨‍💻 Most of my work is available at [debarghaganguly.com](https://debarghaganguly.com)
 
 - 📝 I occasionally write articles on [Substack](https://debwrites.substack.com/)
 
-- 📫 Email : **maildebargha@gmail.com**
+- 📫 Email : **maildebargha {at} gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
