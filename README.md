@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debargha</h1>
 <h3 align="center">I hack things together.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghag&label=Profile%20views&color=0e75b6&style=flat" alt="debarghag" /> </p>
+
 - 🔭 I’m currently working on [Explainable AI](https://ml2ct.ashoka.edu.in)
+
 - 👨‍💻 Most of my work is available at [debarghaganguly.com](https://debarghaganguly.com)
+
 - 📫 Email : **maildebargha {at} gmail.com**
 
 <h3 align="left">Connect with me:</h3>
