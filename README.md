@@ -2,7 +2,7 @@
 <h3 align="center">I hack things together.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghag&label=Profile%20views&color=0e75b6&style=flat" alt="debarghag" /> </p>
 
-- 🔭 I’m currently working on Explainable AI at the Mphasis Lab for Machine Learning.
+- 🔭 I’m currently working on Explainable AI at the [Mphasis Lab for Machine Learning](https://ml2ct.ashoka.edu.in)
 
 - 👨‍💻 Most of my work is available at [debarghaganguly.com](https://debarghaganguly.com)
 
